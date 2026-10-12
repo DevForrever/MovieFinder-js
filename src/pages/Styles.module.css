@@ -1,0 +1,14 @@
+.down__title {
+    color: black;
+    display: flex;
+    font-style: Bold;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 2.9375rem;
+    margin-bottom: 2.75rem;
+}
+
+.container {
+    max-width: 77.5rem;
+    margin: 0 auto;
+}

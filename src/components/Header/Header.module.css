@@ -1,0 +1,31 @@
+.nav__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.875rem;
+    gap: 1.875rem;
+}
+.tv {
+    filter: brightness(0) invert(1);
+
+}
+.logo__box {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-left: 1.25rem;
+}
+.moviefinder,
+.item {
+    font-weight: 600;
+    color: white;
+}
+.container {
+    position: absolute;
+    width: 100%;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 0;
+}
